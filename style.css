@@ -1,0 +1,51 @@
+#header{
+   height: 40%;
+}
+
+#main-frame{
+    width: 60%;
+}
+
+body{
+    margin: 0;
+}
+
+.row1{
+    margin: 20px;
+}
+
+img{
+    width: 100%;
+}
+
+body nav{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+#left-frame{
+    width: 25%;
+ }
+
+#body-frame{
+    display: flex;
+    flex-direction: row;
+}
+
+nav{
+    list-style-type: none;
+    background-color: rgba(165, 42, 42, 0.6);
+    height: 200%;
+}
+
+.navi-link {
+    background-color: brown;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 3px;
+}
+
+.navi-link a {
+    text-decoration: none;
+    color: antiquewhite;
+}
