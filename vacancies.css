@@ -1,0 +1,90 @@
+#header{
+    height: 40%;
+ }
+ 
+ #main-frame{
+     width: 75%;
+    
+ }
+ 
+ body{
+     margin: 0;
+ }
+ 
+ img{
+     width: 100%;
+ }
+ 
+ .row1{
+     margin: 20px;
+ }
+ 
+ body nav{
+     color: aliceblue;
+     font-family: sans-serif;
+ }
+ 
+ #left-frame{
+     width: 25%;
+  }
+ 
+ #body-frame{
+     display: flex;
+     flex-direction: row;
+ }
+ 
+ nav{
+     list-style-type: none;
+     background-color: rgba(165, 42, 42, 0.6);
+     height: 100%;
+ }
+ 
+ .navi-link {
+     background-color: brown;
+     text-align: center;
+     padding: 10px;
+     margin-bottom: 3px;
+ }
+ 
+ .navi-link a {
+     text-decoration: none;
+     color: antiquewhite;
+ }
+ 
+ .topic{
+     color: brown;
+     font-weight: bold;
+     font-style: italic;
+     font-family: oblique;
+     font-size: 30px;
+ }
+
+ .form1{
+    margin: 0px 15px 0 15px;
+    border: 2px solid black;
+    background-color: beige;
+    padding: 10px;
+ }
+
+ .personal {
+    font-weight: bold;
+    padding: 0%;
+    margin: 0px;
+ }
+
+ .education{
+    font-weight: bold;
+    padding: 0%;
+ }
+
+ .declaration{
+    font-weight: bold;
+    padding: 0%;
+ }
+
+ .add{
+    font-weight: bold;
+    padding: 0%;
+ }
+ 
+ 

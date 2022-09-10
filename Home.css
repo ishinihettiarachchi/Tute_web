@@ -3,19 +3,20 @@
 }
 
 #main-frame{
-    width: 60%;
+    width: 75%;
+   
 }
 
 body{
     margin: 0;
 }
 
-.row1{
-    margin: 20px;
-}
-
 img{
     width: 100%;
+}
+
+.row1{
+    margin: 20px;
 }
 
 body nav{
@@ -35,7 +36,7 @@ body nav{
 nav{
     list-style-type: none;
     background-color: rgba(165, 42, 42, 0.6);
-    height: 200%;
+    height: 100%;
 }
 
 .navi-link {
@@ -48,4 +49,33 @@ nav{
 .navi-link a {
     text-decoration: none;
     color: antiquewhite;
+}
+
+.home_p{
+    background-color: beige;
+    letter-spacing: 5px;
+    font-size: 15px;
+    padding: 50px;
+}
+
+.topic{
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    font-family: oblique;
+    font-size: 30px;
+}
+
+.sub_topic{
+    color: brown;
+    font-family: cursive;
+}
+
+hr{
+    border-color: brown;
+    border-width: 1px;
+}
+
+footer{
+    text-align: center;
 }
