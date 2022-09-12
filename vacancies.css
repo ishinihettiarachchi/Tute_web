@@ -60,29 +60,11 @@
  }
 
  .form1{
-    margin: 0px 15px 0px 15px;
-    border: 2px solid black;
+    margin: -10px 15px 0px 15px;
     background-color: beige;
     padding: 10px;
  }
 
- .personal {
+ legend{
     font-weight: bold;
  }
-
- .education{
-    font-weight: bold;
-    
- }
-
- .declaration{
-    font-weight: bold;
-   
- }
-
- .add{
-    font-weight: bold;
-   
- }
- 
- 
